@@ -15,7 +15,7 @@ This app utilizes a simple shared AR expierence for two or more iOS applications
 
 (Some of these instructions were taken from "Creating a Multiuser AR Experience.")
 
-![Demo Picture](https://github.com/arianais/ARAffermtions/blob/master/SampleImages/Images/IMG_0609.PNG)
+![Demo Picture](https://github.com/arianais/ARAffermtions/blob/master/SampleImages/IMG_0609.PNG)
  
 ## Credits
  
