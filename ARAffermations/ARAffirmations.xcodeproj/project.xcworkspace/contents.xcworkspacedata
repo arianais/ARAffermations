@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ARAffermations.xcodeproj">
+      location = "self:/Users/Ari/Documents/GitHub/ARAffermations/ARAffermations/ARAffirmations.xcodeproj">
    </FileRef>
 </Workspace>

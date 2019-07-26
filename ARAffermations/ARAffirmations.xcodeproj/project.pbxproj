@@ -15,12 +15,12 @@
 		02DB374322EB926C0069F8CA /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DB374222EB926C0069F8CA /* RoundedButton.swift */; };
 		02DB374822EB927A0069F8CA /* MultipeerSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DB374522EB927A0069F8CA /* MultipeerSession.swift */; };
 		02DB374922EB927A0069F8CA /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DB374622EB927A0069F8CA /* Utilities.swift */; };
-		02DB374A22EB927A0069F8CA /* Affermations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DB374722EB927A0069F8CA /* Affermations.swift */; };
+		02DB374A22EB927A0069F8CA /* Affirmations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DB374722EB927A0069F8CA /* Affirmations.swift */; };
 		02DB374C22EB92C20069F8CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02DB374B22EB92C20069F8CA /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		02DB372A22EB91E20069F8CA /* ARAffermations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARAffermations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		02DB372A22EB91E20069F8CA /* ARAffirmations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARAffirmations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02DB372D22EB91E20069F8CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02DB372F22EB91E20069F8CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		02DB373422EB91E40069F8CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -30,7 +30,7 @@
 		02DB374222EB926C0069F8CA /* RoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 		02DB374522EB927A0069F8CA /* MultipeerSession.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipeerSession.swift; sourceTree = "<group>"; };
 		02DB374622EB927A0069F8CA /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		02DB374722EB927A0069F8CA /* Affermations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Affermations.swift; sourceTree = "<group>"; };
+		02DB374722EB927A0069F8CA /* Affirmations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Affirmations.swift; sourceTree = "<group>"; };
 		02DB374B22EB92C20069F8CA /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -56,7 +56,7 @@
 		02DB372B22EB91E20069F8CA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				02DB372A22EB91E20069F8CA /* ARAffermations.app */,
+				02DB372A22EB91E20069F8CA /* ARAffirmations.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,7 +90,7 @@
 			children = (
 				02DB374522EB927A0069F8CA /* MultipeerSession.swift */,
 				02DB374622EB927A0069F8CA /* Utilities.swift */,
-				02DB374722EB927A0069F8CA /* Affermations.swift */,
+				02DB374722EB927A0069F8CA /* Affirmations.swift */,
 			);
 			path = "Data Sources & Utils";
 			sourceTree = "<group>";
@@ -98,9 +98,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		02DB372922EB91E20069F8CA /* ARAffermations */ = {
+		02DB372922EB91E20069F8CA /* ARAffirmations */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 02DB373C22EB91E40069F8CA /* Build configuration list for PBXNativeTarget "ARAffermations" */;
+			buildConfigurationList = 02DB373C22EB91E40069F8CA /* Build configuration list for PBXNativeTarget "ARAffirmations" */;
 			buildPhases = (
 				02DB372622EB91E20069F8CA /* Sources */,
 				02DB372722EB91E20069F8CA /* Frameworks */,
@@ -110,9 +110,9 @@
 			);
 			dependencies = (
 			);
-			name = ARAffermations;
+			name = ARAffirmations;
 			productName = ARAffermations;
-			productReference = 02DB372A22EB91E20069F8CA /* ARAffermations.app */;
+			productReference = 02DB372A22EB91E20069F8CA /* ARAffirmations.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -130,7 +130,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 02DB372522EB91E20069F8CA /* Build configuration list for PBXProject "ARAffermations" */;
+			buildConfigurationList = 02DB372522EB91E20069F8CA /* Build configuration list for PBXProject "ARAffirmations" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -143,7 +143,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				02DB372922EB91E20069F8CA /* ARAffermations */,
+				02DB372922EB91E20069F8CA /* ARAffirmations */,
 			);
 		};
 /* End PBXProject section */
@@ -169,7 +169,7 @@
 				02DB374922EB927A0069F8CA /* Utilities.swift in Sources */,
 				02DB373022EB91E20069F8CA /* ViewController.swift in Sources */,
 				02DB372E22EB91E20069F8CA /* AppDelegate.swift in Sources */,
-				02DB374A22EB927A0069F8CA /* Affermations.swift in Sources */,
+				02DB374A22EB927A0069F8CA /* Affirmations.swift in Sources */,
 				02DB374822EB927A0069F8CA /* MultipeerSession.swift in Sources */,
 				02DB374022EB922A0069F8CA /* SelectTableViewController.swift in Sources */,
 				02DB374322EB926C0069F8CA /* RoundedButton.swift in Sources */,
@@ -345,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		02DB372522EB91E20069F8CA /* Build configuration list for PBXProject "ARAffermations" */ = {
+		02DB372522EB91E20069F8CA /* Build configuration list for PBXProject "ARAffirmations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02DB373A22EB91E40069F8CA /* Debug */,
@@ -354,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		02DB373C22EB91E40069F8CA /* Build configuration list for PBXNativeTarget "ARAffermations" */ = {
+		02DB373C22EB91E40069F8CA /* Build configuration list for PBXNativeTarget "ARAffirmations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02DB373D22EB91E40069F8CA /* Debug */,

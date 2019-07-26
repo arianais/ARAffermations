@@ -13,7 +13,7 @@
         <!--View Controller-->
         <scene sceneID="WeU-Be-bo7">
             <objects>
-                <viewController id="7dh-A0-qGE" customClass="ViewController" customModule="ARAffermations" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="7dh-A0-qGE" customClass="ViewController" customModule="ARAffirmations" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="loo-cG-myf">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -147,10 +147,10 @@
             </objects>
             <point key="canvasLocation" x="1968.8" y="-222.63868065967017"/>
         </scene>
-        <!--Add Affermation-->
+        <!--Add Affirmation-->
         <scene sceneID="YxS-VE-vnY">
             <objects>
-                <tableViewController title="Add Affermation" id="jl3-ae-PNE" customClass="SelectTableViewController" customModule="ARAffermations" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController title="Add Affirmation" id="jl3-ae-PNE" customClass="SelectTableViewController" customModule="ARAffirmations" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="FNZ-QY-CoG">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

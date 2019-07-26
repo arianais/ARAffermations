@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Affermations: NSObject {
+class Affirmations: NSObject {
     //The list of affermations that users can pick to place in the AR scene
     public static var list = [
         "You got this!",
