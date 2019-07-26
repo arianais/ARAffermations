@@ -48,7 +48,7 @@
 		02DB372122EB91E20069F8CA = {
 			isa = PBXGroup;
 			children = (
-				02DB372C22EB91E20069F8CA /* ARAffermations */,
+				02DB372C22EB91E20069F8CA /* ARAffirmations */,
 				02DB372B22EB91E20069F8CA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		02DB372C22EB91E20069F8CA /* ARAffermations */ = {
+		02DB372C22EB91E20069F8CA /* ARAffirmations */ = {
 			isa = PBXGroup;
 			children = (
 				02DB374422EB927A0069F8CA /* Data Sources & Utils */,
@@ -74,7 +74,7 @@
 				02DB373622EB91E40069F8CA /* LaunchScreen.storyboard */,
 				02DB373922EB91E40069F8CA /* Info.plist */,
 			);
-			path = ARAffermations;
+			path = ARAffirmations;
 			sourceTree = "<group>";
 		};
 		02DB374122EB926C0069F8CA /* UI Elements */ = {
