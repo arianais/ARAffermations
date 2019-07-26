@@ -1,6 +1,6 @@
 # AR Affermations
 
- **AR Affermations is an iOS application allows users to place positive affermations in their environment using augmented reality.** Using ARKit 2's Multiuser AR capabilities, AR Affermations allows users to share these affermations through a connected AR environment.
+ **AR Affermations is an iOS application that allows users to place positive affermations in their environment using augmented reality.** Using ARKit 2's Multiuser AR capabilities, AR Affermations allows users to share these affermations through a connected AR environment.
  
  ## Getting Started
 This app utilizes a simple shared AR expierence for two or more iOS applications. To run this app effectively, please follow the following instructions:
